@@ -1,0 +1,5 @@
+voila>=0.4.0
+numpy>=1.24.0
+plotly>=5.16.0
+ipywidgets>=8.0.0
+notebook>=6.5.0
